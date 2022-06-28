@@ -22,5 +22,6 @@ public class NavigateCommands {
 		driver.navigate().forward();
 		System.out.println("navigate forward " +driver.getTitle());
 		
+		
 	}
 }
